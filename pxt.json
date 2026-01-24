@@ -1,0 +1,11 @@
+{
+    "name": "demo-led-extension",
+    "description": "Test custom MakeCode extension with LED output",
+    "dependencies": {
+      "core": "*"
+    },
+    "files": [
+      "main.ts"
+    ]
+  }
+  
